@@ -22,6 +22,7 @@ namespace Ravenor
     {
         public MainWindow() {
             InitializeComponent();
+            // SOME COMMENTS
         }
     }
 }
