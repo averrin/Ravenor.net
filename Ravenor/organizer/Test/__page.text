@@ -1,0 +1,27 @@
+<div id="main">
+                    
+    <h1>
+        <div class="permalink">Json.NET</div>
+    </h1>
+    <div class="postcontent"><p>Json.NET is a popular high-performance JSON framework for .NET</p>
+<p><b><a href="http://www.codeplex.com/json" target="_blank">Json.NET CodePlex Project</a></b></p>
+<p><b><a href="http://json.codeplex.com/releases" target="_blank">Json.NET Download</a></b></p>
+<p><b>Features</b></p>
+<ul>
+<li>Flexible JSON serializer for converting between .NET objects and JSON </li>
+<li>LINQ to JSON for manually reading and writing JSON </li>
+<li>High performance, faster than .NET's built-in JSON serializers </li>
+<li>Write indented, easy to read JSON </li>
+<li>Convert JSON to and from XML </li>
+<li>Supports .NET 2, .NET 3.5, .NET 4, Silverlight and Windows Phone </li>
+</ul>
+<p>The serializer is a good choice when the JSON you are reading or writing maps closely to a .NET class.</p>
+<p>LINQ to JSON is good for situations where you are only interested in 
+getting values from JSON, you don't have a class to serialize or 
+deserialize to, or the JSON is radically different from your class and 
+you need to manually read and write from your objects.</p>
+
+    
+    
+
+                </div>
